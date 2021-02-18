@@ -1,15 +1,19 @@
 <div align="center"><h1>Cqdet</h1></div>
 
-## Fullstack Web-Developer
+<div align="center"><h2>Cqdet</h2></div>
 
-## Languages
-- Javascript
-- Typescript
-- Python
-- Rust (Learning!)
-- Java/Kotlin (Learning!)
-- PHP
-- GoLang (Learning!)
+<div align="center"><h2>Cqdet</h2></div>
+<div align="center">
+  <ul>
+    <li>Javascript</li>
+    <li>Typescript</li>
+    <li>Python</li>
+    <li>Rust (Learning!)</li>
+    <li>Java/Kotlin (Learning!)</li>
+    <li>PHP</li>
+    <li>GoLang (Learning!)</li>
+  </ul>
+</div>
 
 ## Technologies
 - Node.JS
