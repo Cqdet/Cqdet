@@ -3,7 +3,7 @@
 <div align="center"><h2>Full Stack Web-Developer</h2></div>
 
 <div align="center"><h2>Languages</h2></div>
-<div align="center">
+<div align="center" style="list-style-type:none;">
   <ul style="list-style-type:none;">
     <li>Javascript</li>
     <li>Typescript</li>
