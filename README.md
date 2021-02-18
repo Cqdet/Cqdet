@@ -8,9 +8,10 @@
   Javascript<br/>
   Typescript<br/>
   Python<br/>
-  Rust<br/>
-  Go<br/>
   PHP<br/>
+  (Learning) Rust<br/>
+  (Learning) Go<br/>
+  (Learning) Java/Kotlin<br/>
 </div>
 
 <div align="center"><h2>Technologies</h2></div>
@@ -22,6 +23,16 @@
   GraphQL<br/>
   PostgreSQL<br/>
   MongoDB<br/>
+</div>
+
+<div align="center"><h2>Current Projects</h2></div>
+<div align="center">
+  Assistant-Lib<br/>
+  Assistant-Bot<br/>
+  OwnagePE Network<br/>
+  undefined<br/>
+  GoMint/Nukkit Plugins<br/>
+  Pocketmine Plugins
 </div>
 
 <div align="center"><h2>My Contacts</h2></div>
