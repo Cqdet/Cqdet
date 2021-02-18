@@ -1,10 +1,10 @@
 <div align="center"><h1>Cqdet</h1></div>
 
-<div align="center"><h2>Cqdet</h2></div>
+<div align="center"><h2>Full Stack Web-Developer</h2></div>
 
-<div align="center"><h2>Cqdet</h2></div>
+<div align="center"><h2>Languages</h2></div>
 <div align="center">
-  <ul>
+  <ul style="list-style-type:none;">
     <li>Javascript</li>
     <li>Typescript</li>
     <li>Python</li>
