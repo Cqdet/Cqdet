@@ -4,7 +4,7 @@
 
 <div align="center"><h2>Languages</h2></div>
 <div align="center" style="list-style-type:none;">
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:none;" display="table" margin="0 auto">
     <li>Javascript</li>
     <li>Typescript</li>
     <li>Python</li>
