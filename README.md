@@ -3,7 +3,8 @@
 <div align="center"><h2>Full Stack Web-Developer</h2></div>
 
 <div align="center"><h2>Languages</h2></div>
-<div align="center" style="list-style-type:none;">
+
+<div align="center">
   Javascript
   Typescript
   Python
@@ -12,14 +13,16 @@
   PHP
 </div>
 
-## Technologies
-- Node.JS
-- Deno
-- React
-- Svelte
-- GraphQL
-- PostgreSQL
-- MongoDB
+<div align="center"><h2>Technologies</h2></div>
+<div align="center">
+  Node.JS
+  Deno
+  React
+  Svelte
+  GraphQL
+  PostgreSQL
+  MongoDB
+</div>
 
 # My contacts
 - Discord (Cqdet#3289, 522895569039917066)
