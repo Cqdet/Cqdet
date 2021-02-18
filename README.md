@@ -4,15 +4,12 @@
 
 <div align="center"><h2>Languages</h2></div>
 <div align="center" style="list-style-type:none;">
-  <ul style="list-style-type:none;" display="table" margin="0 auto">
-    <li>Javascript</li>
-    <li>Typescript</li>
-    <li>Python</li>
-    <li>Rust (Learning!)</li>
-    <li>Java/Kotlin (Learning!)</li>
-    <li>PHP</li>
-    <li>GoLang (Learning!)</li>
-  </ul>
+  Javascript
+  Typescript
+  Python
+  Rust
+  Go
+  PHP
 </div>
 
 ## Technologies
