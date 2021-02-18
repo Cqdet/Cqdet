@@ -1,4 +1,4 @@
-# Cqdet
+<div align="center"><h1>Cqdet</h1></div>
 
 ## Fullstack Web-Developer
 
